@@ -1,0 +1,23 @@
+.homeContainer {
+    height: 100vh
+}
+
+.userBox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    border: 1px;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+
+.infoContainer{
+    display: flex;
+    margin: 10px;
+    flex-direction: column;
+}
+
+.info{
+    margin-right: 10px;
+}
